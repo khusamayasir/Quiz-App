@@ -1,2 +1,3 @@
 # Quiz-App
-In-Working
+A quiz application using JavaScript
+
