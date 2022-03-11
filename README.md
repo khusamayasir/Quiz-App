@@ -9,7 +9,11 @@ Desktop View:
 #
 Mobile View:
 
+![image](https://user-images.githubusercontent.com/66178232/157987369-a8b4f609-54de-4a2b-ab14-38f05ab0ef69.png)
+
+
 #
 Ipad Mini View:
+
 ![image](https://user-images.githubusercontent.com/66178232/157987178-3b929935-6bd6-4e33-84b0-c45101f63519.png)
 
