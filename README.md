@@ -1,5 +1,5 @@
 # Quiz-App
-A simple quiz application using JavaScript.
+A simple quiz application using JavaScript
 
 You can check here / fill the quiz: https://quiz-app-khusamayasir.netlify.app
 
